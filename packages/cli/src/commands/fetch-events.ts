@@ -25,7 +25,9 @@ function displayEvent(event: PolymarketEvent, index: number): void {
   console.log(`\n${'─'.repeat(80)}`);
   console.log(`#${index + 1} │ ${event.title}`);
   console.log(`   │ ID: ${event.id}`);
-  console.log(`   │ Volume: ${formatVolume(event.volume)} │ Liquidity: ${formatVolume(event.liquidity)}`);
+  console.log(
+    `   │ Volume: ${formatVolume(event.volume)} │ Liquidity: ${formatVolume(event.liquidity)}`,
+  );
   console.log(`   │ End: ${event.endDate ?? 'N/A'}`);
 
   for (const market of event.markets) {

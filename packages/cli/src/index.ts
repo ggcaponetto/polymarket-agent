@@ -4,10 +4,7 @@ import { fetchEvents } from './commands/fetch-events.js';
 
 const program = new Command();
 
-program
-  .name('polymarket')
-  .description('Polymarket prediction market agent CLI')
-  .version('0.1.0');
+program.name('polymarket').description('Polymarket prediction market agent CLI').version('0.1.0');
 
 program
   .command('fetch-events')
