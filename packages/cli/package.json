@@ -1,0 +1,21 @@
+{
+  "name": "@polymarket-agent/cli",
+  "version": "0.1.0",
+  "type": "module",
+  "main": "dist/index.js",
+  "bin": {
+    "polymarket": "dist/index.js"
+  },
+  "scripts": {
+    "build": "tsc",
+    "start": "tsx src/index.ts",
+    "test": "vitest run"
+  },
+  "dependencies": {
+    "@polymarket-agent/core": "*",
+    "commander": "^13.1.0"
+  },
+  "devDependencies": {
+    "tsx": "^4.19.0"
+  }
+}
