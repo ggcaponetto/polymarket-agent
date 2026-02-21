@@ -15,6 +15,7 @@ interface ResearchOptions {
   minLiquidity?: string;
   limit?: string;
   category?: string;
+  search?: string;
 }
 
 function parsePrice(price: string | undefined): number {
@@ -28,6 +29,19 @@ function parseOutcomes(raw: string | string[]): string[] {
 
 function parsePrices(raw: string | string[]): string[] {
   return typeof raw === 'string' ? JSON.parse(raw) : (raw ?? []);
+}
+
+function matchesSearch(event: PolymarketEvent, query: string): boolean {
+  const needle = query.trim().toLowerCase();
+  if (!needle) return true;
+
+  const inTitle = event.title?.toLowerCase().includes(needle);
+  const inDescription = event.description?.toLowerCase().includes(needle);
+  const inMarkets = event.markets?.some((m) =>
+    m.question?.toLowerCase().includes(needle),
+  );
+
+  return Boolean(inTitle || inDescription || inMarkets);
 }
 
 function analyzeMarket(
@@ -149,6 +163,9 @@ export async function research(
             (m) => m.category?.toLowerCase().includes(cat),
           ),
       );
+    }
+    if (options.search) {
+      events = events.filter((e) => matchesSearch(e, options.search!));
     }
 
     events = events.slice(0, limit);

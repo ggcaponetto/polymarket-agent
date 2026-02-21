@@ -16,6 +16,7 @@ program
   .option('-l, --limit <number>', 'Max events to fetch', '20')
   .option('-a, --all', 'Fetch all active events (no limit)')
   .option('--json', 'Output raw JSON')
+  .option('--search <string>', 'Filter events by search query (title/description/questions)')
   .action(fetchEvents);
 
 program
@@ -25,6 +26,7 @@ program
   .option('--min-liquidity <number>', 'Minimum liquidity filter')
   .option('-l, --limit <number>', 'Max events to research', '20')
   .option('-c, --category <string>', 'Filter by category')
+  .option('--search <string>', 'Filter events by search query (title/description/questions)')
   .action(research);
 
 program
@@ -46,6 +48,7 @@ program
   .option('-a, --all', 'Export all active events')
   .option('--min-volume <number>', 'Minimum volume filter')
   .option('--min-liquidity <number>', 'Minimum liquidity filter')
+  .option('--search <string>', 'Filter events by search query (title/description/questions)')
   .action(exportEvents);
 
 program.parse();

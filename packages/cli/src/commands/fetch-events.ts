@@ -8,6 +8,7 @@ interface FetchEventsOptions {
   limit: string;
   all?: boolean;
   json?: boolean;
+  search?: string;
 }
 
 function formatPrice(price: string): string {
@@ -19,6 +20,18 @@ function formatVolume(vol: number): string {
   if (vol >= 1_000_000) return `$${(vol / 1_000_000).toFixed(1)}M`;
   if (vol >= 1_000) return `$${(vol / 1_000).toFixed(1)}K`;
   return `$${vol.toFixed(0)}`;
+}
+
+function matchesSearch(event: PolymarketEvent, query: string | undefined): boolean {
+  if (!query) return true;
+  const needle = query.trim().toLowerCase();
+  if (!needle) return true;
+  const inTitle = event.title?.toLowerCase().includes(needle);
+  const inDescription = event.description?.toLowerCase().includes(needle);
+  const inMarkets = event.markets?.some((m) =>
+    m.question?.toLowerCase().includes(needle),
+  );
+  return Boolean(inTitle || inDescription || inMarkets);
 }
 
 function displayEvent(event: PolymarketEvent, index: number): void {
@@ -59,6 +72,8 @@ export async function fetchEvents(options: FetchEventsOptions): Promise<void> {
       console.log(`Fetching top ${limit} active events by volume...`);
       events = await apiFetchEvents({ active: true, closed: false, limit });
     }
+
+    events = events.filter((event) => matchesSearch(event, options.search));
 
     if (options.json) {
       console.log(JSON.stringify(events, null, 2));

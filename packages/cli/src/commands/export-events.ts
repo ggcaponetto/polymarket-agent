@@ -9,6 +9,7 @@ interface ExportOptions {
   all?: boolean;
   minVolume?: string;
   minLiquidity?: string;
+  search?: string;
 }
 
 function parseOutcomes(raw: string | string[]): string[] {
@@ -17,6 +18,19 @@ function parseOutcomes(raw: string | string[]): string[] {
 
 function parsePrices(raw: string | string[]): string[] {
   return typeof raw === 'string' ? JSON.parse(raw) : (raw ?? []);
+}
+
+function matchesSearch(event: PolymarketEvent, query: string): boolean {
+  const needle = query.trim().toLowerCase();
+  if (!needle) return true;
+
+  const inTitle = event.title?.toLowerCase().includes(needle);
+  const inDescription = event.description?.toLowerCase().includes(needle);
+  const inMarkets = event.markets?.some((m) =>
+    m.question?.toLowerCase().includes(needle),
+  );
+
+  return Boolean(inTitle || inDescription || inMarkets);
 }
 
 interface CompactMarket {
@@ -99,6 +113,9 @@ export async function exportEvents(
     }
     if (minLiquidity > 0) {
       events = events.filter((e) => e.liquidity >= minLiquidity);
+    }
+    if (options.search) {
+      events = events.filter((e) => matchesSearch(e, options.search!));
     }
 
     const compact = events.map(toCompact);

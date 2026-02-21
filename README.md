@@ -30,8 +30,8 @@ Autonomous Polymarket prediction market analysis agent. Uses an AI agent (CCAgen
 ```bash
 npm install
 
-# List top events by volume
-npm run cli -- fetch-events --limit 10
+# List top GTA-related events by volume
+npm run cli -- fetch-events --limit 50 --search gta
 
 # Take a snapshot of current market state
 npm run cli -- snapshot
@@ -55,6 +55,9 @@ npm run cli -- export --all
 
 # Export top 50 by volume with filters
 npm run cli -- export --limit 50 --min-volume 100000
+
+# Export only events containing "GTA"
+npm run cli -- export --limit 100 --search gta
 
 # Export with minimum liquidity
 npm run cli -- export --limit 30 --min-liquidity 50000
@@ -149,9 +152,9 @@ data/
 
 | Command | Description |
 |---------|-------------|
-| `fetch-events [--limit N] [--all] [--json]` | Display active events |
-| `export [ids...] [--all] [--limit N] [--min-volume N] [--min-liquidity N]` | Export event data as JSON for agent consumption |
-| `research [eventId] [--limit N] [--min-volume N] [--category S]` | Run baseline analysis (stub — use agent workflow for real research) |
+| `fetch-events [--limit N] [--all] [--json] [--search TEXT]` | Display active events (filter by search string) |
+| `export [ids...] [--all] [--limit N] [--min-volume N] [--min-liquidity N] [--search TEXT]` | Export event data as JSON for agent consumption |
+| `research [eventId] [--limit N] [--min-volume N] [--category S] [--search TEXT]` | Run baseline analysis (stub — use agent workflow for real research) |
 | `snapshot [--limit N] [--all]` | Save a point-in-time snapshot of events |
 | `actions` | Display latest trade recommendations |
 
@@ -164,6 +167,10 @@ Tell the agent:
 or
 
 > "Research all active events with volume > 500k"
+
+or
+
+> "Research every event matching 'gta'"
 
 The agent will:
 1. Run `export` to get current market data
