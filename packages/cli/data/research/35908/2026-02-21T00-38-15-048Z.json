@@ -1,0 +1,517 @@
+{
+  "eventId": "35908",
+  "title": "Who will Trump nominate as Fed Chair?",
+  "timestamp": "2026-02-21T00:38:16.009Z",
+  "markets": [
+    {
+      "marketId": "572469",
+      "question": "Will Trump nominate Kevin Warsh as the next Fed chair?",
+      "currentPrice": {
+        "yes": 0.9335,
+        "no": 0.0665
+      },
+      "estimatedProbability": 0.9335,
+      "edge": 0,
+      "confidence": "low",
+      "sources": [],
+      "reasoning": "Baseline analysis — no external research performed yet."
+    },
+    {
+      "marketId": "572470",
+      "question": "Will Trump nominate Kevin Hassett as the next Fed chair?",
+      "currentPrice": {
+        "yes": 0.0025,
+        "no": 0.9975
+      },
+      "estimatedProbability": 0.0025,
+      "edge": 0,
+      "confidence": "low",
+      "sources": [],
+      "reasoning": "Baseline analysis — no external research performed yet."
+    },
+    {
+      "marketId": "572471",
+      "question": "Will Trump nominate Christopher Waller as the next Fed chair?",
+      "currentPrice": {
+        "yes": 0.0035,
+        "no": 0.9965
+      },
+      "estimatedProbability": 0.0035,
+      "edge": 0,
+      "confidence": "low",
+      "sources": [],
+      "reasoning": "Baseline analysis — no external research performed yet."
+    },
+    {
+      "marketId": "572472",
+      "question": "Will Trump nominate Bill Pulte as the next Fed chair?",
+      "currentPrice": {
+        "yes": 0.0005,
+        "no": 0.9995
+      },
+      "estimatedProbability": 0.0005,
+      "edge": 0,
+      "confidence": "low",
+      "sources": [],
+      "reasoning": "Baseline analysis — no external research performed yet."
+    },
+    {
+      "marketId": "572473",
+      "question": "Will Trump nominate Judy Shelton as the next Fed chair?",
+      "currentPrice": {
+        "yes": 0.0455,
+        "no": 0.9545
+      },
+      "estimatedProbability": 0.0455,
+      "edge": 0,
+      "confidence": "low",
+      "sources": [],
+      "reasoning": "Baseline analysis — no external research performed yet."
+    },
+    {
+      "marketId": "572474",
+      "question": "Will Trump nominate David Malpass as the next Fed chair?",
+      "currentPrice": {
+        "yes": 0.0005,
+        "no": 0.9995
+      },
+      "estimatedProbability": 0.0005,
+      "edge": 0,
+      "confidence": "low",
+      "sources": [],
+      "reasoning": "Baseline analysis — no external research performed yet."
+    },
+    {
+      "marketId": "572475",
+      "question": "Will Trump nominate Howard Lutnick as the next Fed chair?",
+      "currentPrice": {
+        "yes": 0.0005,
+        "no": 0.9995
+      },
+      "estimatedProbability": 0.0005,
+      "edge": 0,
+      "confidence": "low",
+      "sources": [],
+      "reasoning": "Baseline analysis — no external research performed yet."
+    },
+    {
+      "marketId": "572499",
+      "question": "Will Trump nominate Individual T as the next Fed chair?",
+      "currentPrice": {
+        "yes": 0,
+        "no": 0
+      },
+      "estimatedProbability": 0,
+      "edge": 0,
+      "confidence": "low",
+      "sources": [],
+      "reasoning": "Baseline analysis — no external research performed yet."
+    },
+    {
+      "marketId": "572476",
+      "question": "Will Trump nominate Arthur Laffer as the next Fed chair?",
+      "currentPrice": {
+        "yes": 0.0005,
+        "no": 0.9995
+      },
+      "estimatedProbability": 0.0005,
+      "edge": 0,
+      "confidence": "low",
+      "sources": [],
+      "reasoning": "Baseline analysis — no external research performed yet."
+    },
+    {
+      "marketId": "572477",
+      "question": "Will Trump nominate Larry Kudlow as the next Fed chair?",
+      "currentPrice": {
+        "yes": 0.0005,
+        "no": 0.9995
+      },
+      "estimatedProbability": 0.0005,
+      "edge": 0,
+      "confidence": "low",
+      "sources": [],
+      "reasoning": "Baseline analysis — no external research performed yet."
+    },
+    {
+      "marketId": "572478",
+      "question": "Will Trump nominate Jerome Powell as the next Fed chair?",
+      "currentPrice": {
+        "yes": 0.0005,
+        "no": 0.9995
+      },
+      "estimatedProbability": 0.0005,
+      "edge": 0,
+      "confidence": "low",
+      "sources": [],
+      "reasoning": "Baseline analysis — no external research performed yet."
+    },
+    {
+      "marketId": "572479",
+      "question": "Will Trump nominate Ron Paul as the next Fed chair?",
+      "currentPrice": {
+        "yes": 0.0005,
+        "no": 0.9995
+      },
+      "estimatedProbability": 0.0005,
+      "edge": 0,
+      "confidence": "low",
+      "sources": [],
+      "reasoning": "Baseline analysis — no external research performed yet."
+    },
+    {
+      "marketId": "572480",
+      "question": "Will Trump nominate Stephen Miran as the next Fed chair?",
+      "currentPrice": {
+        "yes": 0.003,
+        "no": 0.997
+      },
+      "estimatedProbability": 0.003,
+      "edge": 0,
+      "confidence": "low",
+      "sources": [],
+      "reasoning": "Baseline analysis — no external research performed yet."
+    },
+    {
+      "marketId": "572481",
+      "question": "Will Trump nominate Scott Bessent as the next Fed chair?",
+      "currentPrice": {
+        "yes": 0.0005,
+        "no": 0.9995
+      },
+      "estimatedProbability": 0.0005,
+      "edge": 0,
+      "confidence": "low",
+      "sources": [],
+      "reasoning": "Baseline analysis — no external research performed yet."
+    },
+    {
+      "marketId": "572482",
+      "question": "Will Trump nominate James B. Bullard as the next Fed chair?",
+      "currentPrice": {
+        "yes": 0.0005,
+        "no": 0.9995
+      },
+      "estimatedProbability": 0.0005,
+      "edge": 0,
+      "confidence": "low",
+      "sources": [],
+      "reasoning": "Baseline analysis — no external research performed yet."
+    },
+    {
+      "marketId": "572483",
+      "question": "Will Trump nominate Marc Sumerlin as the next Fed chair?",
+      "currentPrice": {
+        "yes": 0.0005,
+        "no": 0.9995
+      },
+      "estimatedProbability": 0.0005,
+      "edge": 0,
+      "confidence": "low",
+      "sources": [],
+      "reasoning": "Baseline analysis — no external research performed yet."
+    },
+    {
+      "marketId": "572484",
+      "question": "Will Trump nominate David Zervos as the next Fed chair?",
+      "currentPrice": {
+        "yes": 0.0005,
+        "no": 0.9995
+      },
+      "estimatedProbability": 0.0005,
+      "edge": 0,
+      "confidence": "low",
+      "sources": [],
+      "reasoning": "Baseline analysis — no external research performed yet."
+    },
+    {
+      "marketId": "572485",
+      "question": "Will Trump nominate Rick Rieder as the next Fed chair?",
+      "currentPrice": {
+        "yes": 0.0025,
+        "no": 0.9975
+      },
+      "estimatedProbability": 0.0025,
+      "edge": 0,
+      "confidence": "low",
+      "sources": [],
+      "reasoning": "Baseline analysis — no external research performed yet."
+    },
+    {
+      "marketId": "572486",
+      "question": "Will Trump nominate Michelle Bowman as the next Fed chair?",
+      "currentPrice": {
+        "yes": 0.0035,
+        "no": 0.9965
+      },
+      "estimatedProbability": 0.0035,
+      "edge": 0,
+      "confidence": "low",
+      "sources": [],
+      "reasoning": "Baseline analysis — no external research performed yet."
+    },
+    {
+      "marketId": "572487",
+      "question": "Will Trump nominate Lorie K. Logan as the next Fed chair?",
+      "currentPrice": {
+        "yes": 0.0005,
+        "no": 0.9995
+      },
+      "estimatedProbability": 0.0005,
+      "edge": 0,
+      "confidence": "low",
+      "sources": [],
+      "reasoning": "Baseline analysis — no external research performed yet."
+    },
+    {
+      "marketId": "572488",
+      "question": "Will Trump nominate Philip Jefferson as the next Fed chair?",
+      "currentPrice": {
+        "yes": 0.0005,
+        "no": 0.9995
+      },
+      "estimatedProbability": 0.0005,
+      "edge": 0,
+      "confidence": "low",
+      "sources": [],
+      "reasoning": "Baseline analysis — no external research performed yet."
+    },
+    {
+      "marketId": "572489",
+      "question": "Will Trump nominate Janet Yellen as the next Fed chair?",
+      "currentPrice": {
+        "yes": 0.0005,
+        "no": 0.9995
+      },
+      "estimatedProbability": 0.0005,
+      "edge": 0,
+      "confidence": "low",
+      "sources": [],
+      "reasoning": "Baseline analysis — no external research performed yet."
+    },
+    {
+      "marketId": "572490",
+      "question": "archWill Trump nominate James Bullard as the next Fed chair?",
+      "currentPrice": {
+        "yes": 0.038,
+        "no": 0.962
+      },
+      "estimatedProbability": 0.038,
+      "edge": 0,
+      "confidence": "low",
+      "sources": [],
+      "reasoning": "Baseline analysis — no external research performed yet."
+    },
+    {
+      "marketId": "572491",
+      "question": "Will Trump nominate Larry Lindsey as the next Fed chair?",
+      "currentPrice": {
+        "yes": 0.0005,
+        "no": 0.9995
+      },
+      "estimatedProbability": 0.0005,
+      "edge": 0,
+      "confidence": "low",
+      "sources": [],
+      "reasoning": "Baseline analysis — no external research performed yet."
+    },
+    {
+      "marketId": "572492",
+      "question": "Will Trump nominate Barron Trump as the next Fed chair?",
+      "currentPrice": {
+        "yes": 0.0005,
+        "no": 0.9995
+      },
+      "estimatedProbability": 0.0005,
+      "edge": 0,
+      "confidence": "low",
+      "sources": [],
+      "reasoning": "Baseline analysis — no external research performed yet."
+    },
+    {
+      "marketId": "572493",
+      "question": "Will Trump nominate Rick Rieder as the next Fed chair?",
+      "currentPrice": {
+        "yes": 0.075,
+        "no": 0.925
+      },
+      "estimatedProbability": 0.075,
+      "edge": 0,
+      "confidence": "low",
+      "sources": [],
+      "reasoning": "Baseline analysis — no external research performed yet."
+    },
+    {
+      "marketId": "572494",
+      "question": "Will Trump nominate himself as the next Fed chair?",
+      "currentPrice": {
+        "yes": 0.0005,
+        "no": 0.9995
+      },
+      "estimatedProbability": 0.0005,
+      "edge": 0,
+      "confidence": "low",
+      "sources": [],
+      "reasoning": "Baseline analysis — no external research performed yet."
+    },
+    {
+      "marketId": "572495",
+      "question": "Will Trump nominate Individual P as the next Fed chair?",
+      "currentPrice": {
+        "yes": 0,
+        "no": 0
+      },
+      "estimatedProbability": 0,
+      "edge": 0,
+      "confidence": "low",
+      "sources": [],
+      "reasoning": "Baseline analysis — no external research performed yet."
+    },
+    {
+      "marketId": "572496",
+      "question": "Will Trump nominate Individual Q as the next Fed chair?",
+      "currentPrice": {
+        "yes": 0,
+        "no": 0
+      },
+      "estimatedProbability": 0,
+      "edge": 0,
+      "confidence": "low",
+      "sources": [],
+      "reasoning": "Baseline analysis — no external research performed yet."
+    },
+    {
+      "marketId": "572497",
+      "question": "Will Trump nominate Individual R as the next Fed chair?",
+      "currentPrice": {
+        "yes": 0,
+        "no": 0
+      },
+      "estimatedProbability": 0,
+      "edge": 0,
+      "confidence": "low",
+      "sources": [],
+      "reasoning": "Baseline analysis — no external research performed yet."
+    },
+    {
+      "marketId": "572498",
+      "question": "Will Trump nominate Individual S as the next Fed chair?",
+      "currentPrice": {
+        "yes": 0,
+        "no": 0
+      },
+      "estimatedProbability": 0,
+      "edge": 0,
+      "confidence": "low",
+      "sources": [],
+      "reasoning": "Baseline analysis — no external research performed yet."
+    },
+    {
+      "marketId": "572500",
+      "question": "Will Trump nominate Individual U as the next Fed chair?",
+      "currentPrice": {
+        "yes": 0,
+        "no": 0
+      },
+      "estimatedProbability": 0,
+      "edge": 0,
+      "confidence": "low",
+      "sources": [],
+      "reasoning": "Baseline analysis — no external research performed yet."
+    },
+    {
+      "marketId": "572501",
+      "question": "Will Trump nominate Individual V as the next Fed chair?",
+      "currentPrice": {
+        "yes": 0,
+        "no": 0
+      },
+      "estimatedProbability": 0,
+      "edge": 0,
+      "confidence": "low",
+      "sources": [],
+      "reasoning": "Baseline analysis — no external research performed yet."
+    },
+    {
+      "marketId": "572502",
+      "question": "Will Trump nominate Individual W as the next Fed chair?",
+      "currentPrice": {
+        "yes": 0,
+        "no": 0
+      },
+      "estimatedProbability": 0,
+      "edge": 0,
+      "confidence": "low",
+      "sources": [],
+      "reasoning": "Baseline analysis — no external research performed yet."
+    },
+    {
+      "marketId": "572503",
+      "question": "Will Trump nominate Individual X as the next Fed chair?",
+      "currentPrice": {
+        "yes": 0,
+        "no": 0
+      },
+      "estimatedProbability": 0,
+      "edge": 0,
+      "confidence": "low",
+      "sources": [],
+      "reasoning": "Baseline analysis — no external research performed yet."
+    },
+    {
+      "marketId": "572504",
+      "question": "Will Trump nominate Individual Y as the next Fed chair?",
+      "currentPrice": {
+        "yes": 0,
+        "no": 0
+      },
+      "estimatedProbability": 0,
+      "edge": 0,
+      "confidence": "low",
+      "sources": [],
+      "reasoning": "Baseline analysis — no external research performed yet."
+    },
+    {
+      "marketId": "572505",
+      "question": "Will Trump nominate Individual Z as the next Fed chair?",
+      "currentPrice": {
+        "yes": 0,
+        "no": 0
+      },
+      "estimatedProbability": 0,
+      "edge": 0,
+      "confidence": "low",
+      "sources": [],
+      "reasoning": "Baseline analysis — no external research performed yet."
+    },
+    {
+      "marketId": "572506",
+      "question": "Will Trump nominate no one before 2027?",
+      "currentPrice": {
+        "yes": 0.0035,
+        "no": 0.9965
+      },
+      "estimatedProbability": 0.0035,
+      "edge": 0,
+      "confidence": "low",
+      "sources": [],
+      "reasoning": "Baseline analysis — no external research performed yet."
+    },
+    {
+      "marketId": "572507",
+      "question": "Will Trump nominate someone else as the next Fed chair?",
+      "currentPrice": {
+        "yes": 0,
+        "no": 0
+      },
+      "estimatedProbability": 0,
+      "edge": 0,
+      "confidence": "low",
+      "sources": [],
+      "reasoning": "Baseline analysis — no external research performed yet."
+    }
+  ],
+  "action": "SKIP",
+  "actionReasoning": "No significant edge detected. Market prices appear efficient.",
+  "riskLevel": "low"
+}

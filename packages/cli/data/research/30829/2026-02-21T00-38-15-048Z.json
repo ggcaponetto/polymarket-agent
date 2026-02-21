@@ -1,0 +1,1674 @@
+{
+  "eventId": "30829",
+  "title": "Democratic Presidential Nominee 2028",
+  "timestamp": "2026-02-21T00:38:16.005Z",
+  "markets": [
+    {
+      "marketId": "559657",
+      "question": "Will Stephen A. Smith win the 2028 Democratic presidential nomination?",
+      "currentPrice": {
+        "yes": 0.0125,
+        "no": 0.9875
+      },
+      "estimatedProbability": 0.0125,
+      "edge": 0,
+      "confidence": "low",
+      "sources": [],
+      "reasoning": "Baseline analysis — no external research performed yet."
+    },
+    {
+      "marketId": "559659",
+      "question": "Will Gretchen Whitmer win the 2028 Democratic presidential nomination?",
+      "currentPrice": {
+        "yes": 0.0215,
+        "no": 0.9785
+      },
+      "estimatedProbability": 0.0215,
+      "edge": 0,
+      "confidence": "low",
+      "sources": [],
+      "reasoning": "Baseline analysis — no external research performed yet."
+    },
+    {
+      "marketId": "559687",
+      "question": "Will Oprah Winfrey win the 2028 Democratic presidential nomination?",
+      "currentPrice": {
+        "yes": 0.0085,
+        "no": 0.9915
+      },
+      "estimatedProbability": 0.0085,
+      "edge": 0,
+      "confidence": "low",
+      "sources": [],
+      "reasoning": "Baseline analysis — no external research performed yet."
+    },
+    {
+      "marketId": "559697",
+      "question": "Will Person P win the 2028 Democratic presidential nomination?",
+      "currentPrice": {
+        "yes": 0,
+        "no": 0
+      },
+      "estimatedProbability": 0,
+      "edge": 0,
+      "confidence": "low",
+      "sources": [],
+      "reasoning": "Baseline analysis — no external research performed yet."
+    },
+    {
+      "marketId": "559700",
+      "question": "Will Person S win the 2028 Democratic presidential nomination?",
+      "currentPrice": {
+        "yes": 0,
+        "no": 0
+      },
+      "estimatedProbability": 0,
+      "edge": 0,
+      "confidence": "low",
+      "sources": [],
+      "reasoning": "Baseline analysis — no external research performed yet."
+    },
+    {
+      "marketId": "559709",
+      "question": "Will Person AB win the 2028 Democratic presidential nomination?",
+      "currentPrice": {
+        "yes": 0,
+        "no": 0
+      },
+      "estimatedProbability": 0,
+      "edge": 0,
+      "confidence": "low",
+      "sources": [],
+      "reasoning": "Baseline analysis — no external research performed yet."
+    },
+    {
+      "marketId": "559738",
+      "question": "Will Person BE win the 2028 Democratic presidential nomination?",
+      "currentPrice": {
+        "yes": 0,
+        "no": 0
+      },
+      "estimatedProbability": 0,
+      "edge": 0,
+      "confidence": "low",
+      "sources": [],
+      "reasoning": "Baseline analysis — no external research performed yet."
+    },
+    {
+      "marketId": "559743",
+      "question": "Will Person BJ win the 2028 Democratic presidential nomination?",
+      "currentPrice": {
+        "yes": 0,
+        "no": 0
+      },
+      "estimatedProbability": 0,
+      "edge": 0,
+      "confidence": "low",
+      "sources": [],
+      "reasoning": "Baseline analysis — no external research performed yet."
+    },
+    {
+      "marketId": "559761",
+      "question": "Will Person CB win the 2028 Democratic presidential nomination?",
+      "currentPrice": {
+        "yes": 0,
+        "no": 0
+      },
+      "estimatedProbability": 0,
+      "edge": 0,
+      "confidence": "low",
+      "sources": [],
+      "reasoning": "Baseline analysis — no external research performed yet."
+    },
+    {
+      "marketId": "559772",
+      "question": "Will Person CM win the 2028 Democratic presidential nomination?",
+      "currentPrice": {
+        "yes": 0,
+        "no": 0
+      },
+      "estimatedProbability": 0,
+      "edge": 0,
+      "confidence": "low",
+      "sources": [],
+      "reasoning": "Baseline analysis — no external research performed yet."
+    },
+    {
+      "marketId": "559779",
+      "question": "Will another person win the 2028 Democratic presidential nomination?",
+      "currentPrice": {
+        "yes": 0,
+        "no": 0
+      },
+      "estimatedProbability": 0,
+      "edge": 0,
+      "confidence": "low",
+      "sources": [],
+      "reasoning": "Baseline analysis — no external research performed yet."
+    },
+    {
+      "marketId": "559660",
+      "question": "Will Andy Beshear win the 2028 Democratic presidential nomination?",
+      "currentPrice": {
+        "yes": 0.026,
+        "no": 0.974
+      },
+      "estimatedProbability": 0.026,
+      "edge": 0,
+      "confidence": "low",
+      "sources": [],
+      "reasoning": "Baseline analysis — no external research performed yet."
+    },
+    {
+      "marketId": "559695",
+      "question": "Will James Talarico win the 2028 Democratic presidential nomination?",
+      "currentPrice": {
+        "yes": 0.0095,
+        "no": 0.9905
+      },
+      "estimatedProbability": 0.0095,
+      "edge": 0,
+      "confidence": "low",
+      "sources": [],
+      "reasoning": "Baseline analysis — no external research performed yet."
+    },
+    {
+      "marketId": "559701",
+      "question": "Will Person T win the 2028 Democratic presidential nomination?",
+      "currentPrice": {
+        "yes": 0,
+        "no": 0
+      },
+      "estimatedProbability": 0,
+      "edge": 0,
+      "confidence": "low",
+      "sources": [],
+      "reasoning": "Baseline analysis — no external research performed yet."
+    },
+    {
+      "marketId": "559723",
+      "question": "Will Person AP win the 2028 Democratic presidential nomination?",
+      "currentPrice": {
+        "yes": 0,
+        "no": 0
+      },
+      "estimatedProbability": 0,
+      "edge": 0,
+      "confidence": "low",
+      "sources": [],
+      "reasoning": "Baseline analysis — no external research performed yet."
+    },
+    {
+      "marketId": "559759",
+      "question": "Will Person BZ win the 2028 Democratic presidential nomination?",
+      "currentPrice": {
+        "yes": 0,
+        "no": 0
+      },
+      "estimatedProbability": 0,
+      "edge": 0,
+      "confidence": "low",
+      "sources": [],
+      "reasoning": "Baseline analysis — no external research performed yet."
+    },
+    {
+      "marketId": "559764",
+      "question": "Will Person CE win the 2028 Democratic presidential nomination?",
+      "currentPrice": {
+        "yes": 0,
+        "no": 0
+      },
+      "estimatedProbability": 0,
+      "edge": 0,
+      "confidence": "low",
+      "sources": [],
+      "reasoning": "Baseline analysis — no external research performed yet."
+    },
+    {
+      "marketId": "559654",
+      "question": "Will Pete Buttigieg win the 2028 Democratic presidential nomination?",
+      "currentPrice": {
+        "yes": 0.038,
+        "no": 0.962
+      },
+      "estimatedProbability": 0.038,
+      "edge": 0,
+      "confidence": "low",
+      "sources": [],
+      "reasoning": "Baseline analysis — no external research performed yet."
+    },
+    {
+      "marketId": "559661",
+      "question": "Will Jon Ossoff win the 2028 Democratic presidential nomination?",
+      "currentPrice": {
+        "yes": 0.0455,
+        "no": 0.9545
+      },
+      "estimatedProbability": 0.0455,
+      "edge": 0,
+      "confidence": "low",
+      "sources": [],
+      "reasoning": "Baseline analysis — no external research performed yet."
+    },
+    {
+      "marketId": "559670",
+      "question": "Will Gina Raimondo win the 2028 Democratic presidential nomination?",
+      "currentPrice": {
+        "yes": 0.0095,
+        "no": 0.9905
+      },
+      "estimatedProbability": 0.0095,
+      "edge": 0,
+      "confidence": "low",
+      "sources": [],
+      "reasoning": "Baseline analysis — no external research performed yet."
+    },
+    {
+      "marketId": "559702",
+      "question": "Will Person U win the 2028 Democratic presidential nomination?",
+      "currentPrice": {
+        "yes": 0,
+        "no": 0
+      },
+      "estimatedProbability": 0,
+      "edge": 0,
+      "confidence": "low",
+      "sources": [],
+      "reasoning": "Baseline analysis — no external research performed yet."
+    },
+    {
+      "marketId": "559724",
+      "question": "Will Person AQ win the 2028 Democratic presidential nomination?",
+      "currentPrice": {
+        "yes": 0,
+        "no": 0
+      },
+      "estimatedProbability": 0,
+      "edge": 0,
+      "confidence": "low",
+      "sources": [],
+      "reasoning": "Baseline analysis — no external research performed yet."
+    },
+    {
+      "marketId": "559755",
+      "question": "Will Person BV win the 2028 Democratic presidential nomination?",
+      "currentPrice": {
+        "yes": 0,
+        "no": 0
+      },
+      "estimatedProbability": 0,
+      "edge": 0,
+      "confidence": "low",
+      "sources": [],
+      "reasoning": "Baseline analysis — no external research performed yet."
+    },
+    {
+      "marketId": "559765",
+      "question": "Will Person CF win the 2028 Democratic presidential nomination?",
+      "currentPrice": {
+        "yes": 0,
+        "no": 0
+      },
+      "estimatedProbability": 0,
+      "edge": 0,
+      "confidence": "low",
+      "sources": [],
+      "reasoning": "Baseline analysis — no external research performed yet."
+    },
+    {
+      "marketId": "559664",
+      "question": "Will Raphael Warnock win the 2028 Democratic presidential nomination?",
+      "currentPrice": {
+        "yes": 0.0085,
+        "no": 0.9915
+      },
+      "estimatedProbability": 0.0085,
+      "edge": 0,
+      "confidence": "low",
+      "sources": [],
+      "reasoning": "Baseline analysis — no external research performed yet."
+    },
+    {
+      "marketId": "559676",
+      "question": "Will Barack Obama win the 2028 Democratic presidential nomination?",
+      "currentPrice": {
+        "yes": 0.0105,
+        "no": 0.9895
+      },
+      "estimatedProbability": 0.0105,
+      "edge": 0,
+      "confidence": "low",
+      "sources": [],
+      "reasoning": "Baseline analysis — no external research performed yet."
+    },
+    {
+      "marketId": "559683",
+      "question": "Will George Clooney win the 2028 Democratic presidential nomination?",
+      "currentPrice": {
+        "yes": 0.0085,
+        "no": 0.9915
+      },
+      "estimatedProbability": 0.0085,
+      "edge": 0,
+      "confidence": "low",
+      "sources": [],
+      "reasoning": "Baseline analysis — no external research performed yet."
+    },
+    {
+      "marketId": "559719",
+      "question": "Will Person AL win the 2028 Democratic presidential nomination?",
+      "currentPrice": {
+        "yes": 0,
+        "no": 0
+      },
+      "estimatedProbability": 0,
+      "edge": 0,
+      "confidence": "low",
+      "sources": [],
+      "reasoning": "Baseline analysis — no external research performed yet."
+    },
+    {
+      "marketId": "559741",
+      "question": "Will Person BH win the 2028 Democratic presidential nomination?",
+      "currentPrice": {
+        "yes": 0,
+        "no": 0
+      },
+      "estimatedProbability": 0,
+      "edge": 0,
+      "confidence": "low",
+      "sources": [],
+      "reasoning": "Baseline analysis — no external research performed yet."
+    },
+    {
+      "marketId": "559748",
+      "question": "Will Person BO win the 2028 Democratic presidential nomination?",
+      "currentPrice": {
+        "yes": 0,
+        "no": 0
+      },
+      "estimatedProbability": 0,
+      "edge": 0,
+      "confidence": "low",
+      "sources": [],
+      "reasoning": "Baseline analysis — no external research performed yet."
+    },
+    {
+      "marketId": "559665",
+      "question": "Will Cory Booker win the 2028 Democratic presidential nomination?",
+      "currentPrice": {
+        "yes": 0.0105,
+        "no": 0.9895
+      },
+      "estimatedProbability": 0.0105,
+      "edge": 0,
+      "confidence": "low",
+      "sources": [],
+      "reasoning": "Baseline analysis — no external research performed yet."
+    },
+    {
+      "marketId": "559675",
+      "question": "Will Jon Stewart win the 2028 Democratic presidential nomination?",
+      "currentPrice": {
+        "yes": 0.0215,
+        "no": 0.9785
+      },
+      "estimatedProbability": 0.0215,
+      "edge": 0,
+      "confidence": "low",
+      "sources": [],
+      "reasoning": "Baseline analysis — no external research performed yet."
+    },
+    {
+      "marketId": "559707",
+      "question": "Will Person Z win the 2028 Democratic presidential nomination?",
+      "currentPrice": {
+        "yes": 0,
+        "no": 0
+      },
+      "estimatedProbability": 0,
+      "edge": 0,
+      "confidence": "low",
+      "sources": [],
+      "reasoning": "Baseline analysis — no external research performed yet."
+    },
+    {
+      "marketId": "559718",
+      "question": "Will Person AK win the 2028 Democratic presidential nomination?",
+      "currentPrice": {
+        "yes": 0,
+        "no": 0
+      },
+      "estimatedProbability": 0,
+      "edge": 0,
+      "confidence": "low",
+      "sources": [],
+      "reasoning": "Baseline analysis — no external research performed yet."
+    },
+    {
+      "marketId": "559749",
+      "question": "Will Person BP win the 2028 Democratic presidential nomination?",
+      "currentPrice": {
+        "yes": 0,
+        "no": 0
+      },
+      "estimatedProbability": 0,
+      "edge": 0,
+      "confidence": "low",
+      "sources": [],
+      "reasoning": "Baseline analysis — no external research performed yet."
+    },
+    {
+      "marketId": "559666",
+      "question": "Will Tim Walz win the 2028 Democratic presidential nomination?",
+      "currentPrice": {
+        "yes": 0.0085,
+        "no": 0.9915
+      },
+      "estimatedProbability": 0.0085,
+      "edge": 0,
+      "confidence": "low",
+      "sources": [],
+      "reasoning": "Baseline analysis — no external research performed yet."
+    },
+    {
+      "marketId": "559679",
+      "question": "Will Bernie Sanders win the 2028 Democratic presidential nomination?",
+      "currentPrice": {
+        "yes": 0.0085,
+        "no": 0.9915
+      },
+      "estimatedProbability": 0.0085,
+      "edge": 0,
+      "confidence": "low",
+      "sources": [],
+      "reasoning": "Baseline analysis — no external research performed yet."
+    },
+    {
+      "marketId": "559731",
+      "question": "Will Person AX win the 2028 Democratic presidential nomination?",
+      "currentPrice": {
+        "yes": 0,
+        "no": 0
+      },
+      "estimatedProbability": 0,
+      "edge": 0,
+      "confidence": "low",
+      "sources": [],
+      "reasoning": "Baseline analysis — no external research performed yet."
+    },
+    {
+      "marketId": "559751",
+      "question": "Will Person BR win the 2028 Democratic presidential nomination?",
+      "currentPrice": {
+        "yes": 0,
+        "no": 0
+      },
+      "estimatedProbability": 0,
+      "edge": 0,
+      "confidence": "low",
+      "sources": [],
+      "reasoning": "Baseline analysis — no external research performed yet."
+    },
+    {
+      "marketId": "559668",
+      "question": "Will Mark Kelly win the 2028 Democratic presidential nomination?",
+      "currentPrice": {
+        "yes": 0.0255,
+        "no": 0.9745
+      },
+      "estimatedProbability": 0.0255,
+      "edge": 0,
+      "confidence": "low",
+      "sources": [],
+      "reasoning": "Baseline analysis — no external research performed yet."
+    },
+    {
+      "marketId": "559678",
+      "question": "Will Liz Cheney win the 2028 Democratic presidential nomination?",
+      "currentPrice": {
+        "yes": 0.0095,
+        "no": 0.9905
+      },
+      "estimatedProbability": 0.0095,
+      "edge": 0,
+      "confidence": "low",
+      "sources": [],
+      "reasoning": "Baseline analysis — no external research performed yet."
+    },
+    {
+      "marketId": "559689",
+      "question": "Will Beto O’Rourke win the 2028 Democratic presidential nomination?",
+      "currentPrice": {
+        "yes": 0.0095,
+        "no": 0.9905
+      },
+      "estimatedProbability": 0.0095,
+      "edge": 0,
+      "confidence": "low",
+      "sources": [],
+      "reasoning": "Baseline analysis — no external research performed yet."
+    },
+    {
+      "marketId": "559711",
+      "question": "Will Person AD win the 2028 Democratic presidential nomination?",
+      "currentPrice": {
+        "yes": 0,
+        "no": 0
+      },
+      "estimatedProbability": 0,
+      "edge": 0,
+      "confidence": "low",
+      "sources": [],
+      "reasoning": "Baseline analysis — no external research performed yet."
+    },
+    {
+      "marketId": "559722",
+      "question": "Will Person AO win the 2028 Democratic presidential nomination?",
+      "currentPrice": {
+        "yes": 0,
+        "no": 0
+      },
+      "estimatedProbability": 0,
+      "edge": 0,
+      "confidence": "low",
+      "sources": [],
+      "reasoning": "Baseline analysis — no external research performed yet."
+    },
+    {
+      "marketId": "559763",
+      "question": "Will Person CD win the 2028 Democratic presidential nomination?",
+      "currentPrice": {
+        "yes": 0,
+        "no": 0
+      },
+      "estimatedProbability": 0,
+      "edge": 0,
+      "confidence": "low",
+      "sources": [],
+      "reasoning": "Baseline analysis — no external research performed yet."
+    },
+    {
+      "marketId": "559774",
+      "question": "Will Person CO win the 2028 Democratic presidential nomination?",
+      "currentPrice": {
+        "yes": 0,
+        "no": 0
+      },
+      "estimatedProbability": 0,
+      "edge": 0,
+      "confidence": "low",
+      "sources": [],
+      "reasoning": "Baseline analysis — no external research performed yet."
+    },
+    {
+      "marketId": "559667",
+      "question": "Will Michelle Obama win the 2028 Democratic presidential nomination?",
+      "currentPrice": {
+        "yes": 0.0135,
+        "no": 0.9865
+      },
+      "estimatedProbability": 0.0135,
+      "edge": 0,
+      "confidence": "low",
+      "sources": [],
+      "reasoning": "Baseline analysis — no external research performed yet."
+    },
+    {
+      "marketId": "559671",
+      "question": "Will Zohran Mamdani win the 2028 Democratic presidential nomination?",
+      "currentPrice": {
+        "yes": 0.0105,
+        "no": 0.9895
+      },
+      "estimatedProbability": 0.0105,
+      "edge": 0,
+      "confidence": "low",
+      "sources": [],
+      "reasoning": "Baseline analysis — no external research performed yet."
+    },
+    {
+      "marketId": "559688",
+      "question": "Will Andrew Yang win the 2028 Democratic presidential nomination?",
+      "currentPrice": {
+        "yes": 0.0095,
+        "no": 0.9905
+      },
+      "estimatedProbability": 0.0095,
+      "edge": 0,
+      "confidence": "low",
+      "sources": [],
+      "reasoning": "Baseline analysis — no external research performed yet."
+    },
+    {
+      "marketId": "559710",
+      "question": "Will Person AC win the 2028 Democratic presidential nomination?",
+      "currentPrice": {
+        "yes": 0,
+        "no": 0
+      },
+      "estimatedProbability": 0,
+      "edge": 0,
+      "confidence": "low",
+      "sources": [],
+      "reasoning": "Baseline analysis — no external research performed yet."
+    },
+    {
+      "marketId": "559773",
+      "question": "Will Person CN win the 2028 Democratic presidential nomination?",
+      "currentPrice": {
+        "yes": 0,
+        "no": 0
+      },
+      "estimatedProbability": 0,
+      "edge": 0,
+      "confidence": "low",
+      "sources": [],
+      "reasoning": "Baseline analysis — no external research performed yet."
+    },
+    {
+      "marketId": "559653",
+      "question": "Will Alexandria Ocasio-Cortez win the 2028 Democratic presidential nomination?",
+      "currentPrice": {
+        "yes": 0.0885,
+        "no": 0.9115
+      },
+      "estimatedProbability": 0.0885,
+      "edge": 0,
+      "confidence": "low",
+      "sources": [],
+      "reasoning": "Baseline analysis — no external research performed yet."
+    },
+    {
+      "marketId": "559669",
+      "question": "Will Rahm Emanuel win the 2028 Democratic presidential nomination?",
+      "currentPrice": {
+        "yes": 0.013,
+        "no": 0.987
+      },
+      "estimatedProbability": 0.013,
+      "edge": 0,
+      "confidence": "low",
+      "sources": [],
+      "reasoning": "Baseline analysis — no external research performed yet."
+    },
+    {
+      "marketId": "559673",
+      "question": "Will John Fetterman win the 2028 Democratic presidential nomination?",
+      "currentPrice": {
+        "yes": 0.0085,
+        "no": 0.9915
+      },
+      "estimatedProbability": 0.0085,
+      "edge": 0,
+      "confidence": "low",
+      "sources": [],
+      "reasoning": "Baseline analysis — no external research performed yet."
+    },
+    {
+      "marketId": "559690",
+      "question": "Will Kim Kardashian win the 2028 Democratic presidential nomination?",
+      "currentPrice": {
+        "yes": 0.0085,
+        "no": 0.9915
+      },
+      "estimatedProbability": 0.0085,
+      "edge": 0,
+      "confidence": "low",
+      "sources": [],
+      "reasoning": "Baseline analysis — no external research performed yet."
+    },
+    {
+      "marketId": "559693",
+      "question": "Will Ruben Gallego win the 2028 Democratic presidential nomination?",
+      "currentPrice": {
+        "yes": 0.0155,
+        "no": 0.9845
+      },
+      "estimatedProbability": 0.0155,
+      "edge": 0,
+      "confidence": "low",
+      "sources": [],
+      "reasoning": "Baseline analysis — no external research performed yet."
+    },
+    {
+      "marketId": "559712",
+      "question": "Will Person AE win the 2028 Democratic presidential nomination?",
+      "currentPrice": {
+        "yes": 0,
+        "no": 0
+      },
+      "estimatedProbability": 0,
+      "edge": 0,
+      "confidence": "low",
+      "sources": [],
+      "reasoning": "Baseline analysis — no external research performed yet."
+    },
+    {
+      "marketId": "559757",
+      "question": "Will Person BX win the 2028 Democratic presidential nomination?",
+      "currentPrice": {
+        "yes": 0,
+        "no": 0
+      },
+      "estimatedProbability": 0,
+      "edge": 0,
+      "confidence": "low",
+      "sources": [],
+      "reasoning": "Baseline analysis — no external research performed yet."
+    },
+    {
+      "marketId": "559775",
+      "question": "Will Person CP win the 2028 Democratic presidential nomination?",
+      "currentPrice": {
+        "yes": 0,
+        "no": 0
+      },
+      "estimatedProbability": 0,
+      "edge": 0,
+      "confidence": "low",
+      "sources": [],
+      "reasoning": "Baseline analysis — no external research performed yet."
+    },
+    {
+      "marketId": "559674",
+      "question": "Will Jared Polis win the 2028 Democratic presidential nomination?",
+      "currentPrice": {
+        "yes": 0.0095,
+        "no": 0.9905
+      },
+      "estimatedProbability": 0.0095,
+      "edge": 0,
+      "confidence": "low",
+      "sources": [],
+      "reasoning": "Baseline analysis — no external research performed yet."
+    },
+    {
+      "marketId": "559717",
+      "question": "Will Person AJ win the 2028 Democratic presidential nomination?",
+      "currentPrice": {
+        "yes": 0,
+        "no": 0
+      },
+      "estimatedProbability": 0,
+      "edge": 0,
+      "confidence": "low",
+      "sources": [],
+      "reasoning": "Baseline analysis — no external research performed yet."
+    },
+    {
+      "marketId": "559662",
+      "question": "Will Mark Cuban win the 2028 Democratic presidential nomination?",
+      "currentPrice": {
+        "yes": 0.0115,
+        "no": 0.9885
+      },
+      "estimatedProbability": 0.0115,
+      "edge": 0,
+      "confidence": "low",
+      "sources": [],
+      "reasoning": "Baseline analysis — no external research performed yet."
+    },
+    {
+      "marketId": "559680",
+      "question": "Will Phil Murphy win the 2028 Democratic presidential nomination?",
+      "currentPrice": {
+        "yes": 0.0105,
+        "no": 0.9895
+      },
+      "estimatedProbability": 0.0105,
+      "edge": 0,
+      "confidence": "low",
+      "sources": [],
+      "reasoning": "Baseline analysis — no external research performed yet."
+    },
+    {
+      "marketId": "559745",
+      "question": "Will Person BL win the 2028 Democratic presidential nomination?",
+      "currentPrice": {
+        "yes": 0,
+        "no": 0
+      },
+      "estimatedProbability": 0,
+      "edge": 0,
+      "confidence": "low",
+      "sources": [],
+      "reasoning": "Baseline analysis — no external research performed yet."
+    },
+    {
+      "marketId": "559746",
+      "question": "Will Person BM win the 2028 Democratic presidential nomination?",
+      "currentPrice": {
+        "yes": 0,
+        "no": 0
+      },
+      "estimatedProbability": 0,
+      "edge": 0,
+      "confidence": "low",
+      "sources": [],
+      "reasoning": "Baseline analysis — no external research performed yet."
+    },
+    {
+      "marketId": "559656",
+      "question": "Will Wes Moore win the 2028 Democratic presidential nomination?",
+      "currentPrice": {
+        "yes": 0.017,
+        "no": 0.983
+      },
+      "estimatedProbability": 0.017,
+      "edge": 0,
+      "confidence": "low",
+      "sources": [],
+      "reasoning": "Baseline analysis — no external research performed yet."
+    },
+    {
+      "marketId": "559663",
+      "question": "Will J.B. Pritzker win the 2028 Democratic presidential nomination?",
+      "currentPrice": {
+        "yes": 0.0235,
+        "no": 0.9765
+      },
+      "estimatedProbability": 0.0235,
+      "edge": 0,
+      "confidence": "low",
+      "sources": [],
+      "reasoning": "Baseline analysis — no external research performed yet."
+    },
+    {
+      "marketId": "559681",
+      "question": "Will LeBron James win the 2028 Democratic presidential nomination?",
+      "currentPrice": {
+        "yes": 0.0095,
+        "no": 0.9905
+      },
+      "estimatedProbability": 0.0095,
+      "edge": 0,
+      "confidence": "low",
+      "sources": [],
+      "reasoning": "Baseline analysis — no external research performed yet."
+    },
+    {
+      "marketId": "559682",
+      "question": "Will Hunter Biden win the 2028 Democratic presidential nomination?",
+      "currentPrice": {
+        "yes": 0.0095,
+        "no": 0.9905
+      },
+      "estimatedProbability": 0.0095,
+      "edge": 0,
+      "confidence": "low",
+      "sources": [],
+      "reasoning": "Baseline analysis — no external research performed yet."
+    },
+    {
+      "marketId": "559704",
+      "question": "Will Person W win the 2028 Democratic presidential nomination?",
+      "currentPrice": {
+        "yes": 0,
+        "no": 0
+      },
+      "estimatedProbability": 0,
+      "edge": 0,
+      "confidence": "low",
+      "sources": [],
+      "reasoning": "Baseline analysis — no external research performed yet."
+    },
+    {
+      "marketId": "559726",
+      "question": "Will Person AS win the 2028 Democratic presidential nomination?",
+      "currentPrice": {
+        "yes": 0,
+        "no": 0
+      },
+      "estimatedProbability": 0,
+      "edge": 0,
+      "confidence": "low",
+      "sources": [],
+      "reasoning": "Baseline analysis — no external research performed yet."
+    },
+    {
+      "marketId": "559739",
+      "question": "Will Person BF win the 2028 Democratic presidential nomination?",
+      "currentPrice": {
+        "yes": 0,
+        "no": 0
+      },
+      "estimatedProbability": 0,
+      "edge": 0,
+      "confidence": "low",
+      "sources": [],
+      "reasoning": "Baseline analysis — no external research performed yet."
+    },
+    {
+      "marketId": "559747",
+      "question": "Will Person BN win the 2028 Democratic presidential nomination?",
+      "currentPrice": {
+        "yes": 0,
+        "no": 0
+      },
+      "estimatedProbability": 0,
+      "edge": 0,
+      "confidence": "low",
+      "sources": [],
+      "reasoning": "Baseline analysis — no external research performed yet."
+    },
+    {
+      "marketId": "559767",
+      "question": "Will Person CH win the 2028 Democratic presidential nomination?",
+      "currentPrice": {
+        "yes": 0,
+        "no": 0
+      },
+      "estimatedProbability": 0,
+      "edge": 0,
+      "confidence": "low",
+      "sources": [],
+      "reasoning": "Baseline analysis — no external research performed yet."
+    },
+    {
+      "marketId": "559768",
+      "question": "Will Person CI win the 2028 Democratic presidential nomination?",
+      "currentPrice": {
+        "yes": 0,
+        "no": 0
+      },
+      "estimatedProbability": 0,
+      "edge": 0,
+      "confidence": "low",
+      "sources": [],
+      "reasoning": "Baseline analysis — no external research performed yet."
+    },
+    {
+      "marketId": "559684",
+      "question": "Will Chelsea Clinton win the 2028 Democratic presidential nomination?",
+      "currentPrice": {
+        "yes": 0.0085,
+        "no": 0.9915
+      },
+      "estimatedProbability": 0.0085,
+      "edge": 0,
+      "confidence": "low",
+      "sources": [],
+      "reasoning": "Baseline analysis — no external research performed yet."
+    },
+    {
+      "marketId": "559729",
+      "question": "Will Person AV win the 2028 Democratic presidential nomination?",
+      "currentPrice": {
+        "yes": 0,
+        "no": 0
+      },
+      "estimatedProbability": 0,
+      "edge": 0,
+      "confidence": "low",
+      "sources": [],
+      "reasoning": "Baseline analysis — no external research performed yet."
+    },
+    {
+      "marketId": "559770",
+      "question": "Will Person CK win the 2028 Democratic presidential nomination?",
+      "currentPrice": {
+        "yes": 0,
+        "no": 0
+      },
+      "estimatedProbability": 0,
+      "edge": 0,
+      "confidence": "low",
+      "sources": [],
+      "reasoning": "Baseline analysis — no external research performed yet."
+    },
+    {
+      "marketId": "559686",
+      "question": "Will Dwayne 'The Rock' Johnson win the 2028 Democratic presidential nomination?",
+      "currentPrice": {
+        "yes": 0.015,
+        "no": 0.985
+      },
+      "estimatedProbability": 0.015,
+      "edge": 0,
+      "confidence": "low",
+      "sources": [],
+      "reasoning": "Baseline analysis — no external research performed yet."
+    },
+    {
+      "marketId": "559708",
+      "question": "Will Person AA win the 2028 Democratic presidential nomination?",
+      "currentPrice": {
+        "yes": 0,
+        "no": 0
+      },
+      "estimatedProbability": 0,
+      "edge": 0,
+      "confidence": "low",
+      "sources": [],
+      "reasoning": "Baseline analysis — no external research performed yet."
+    },
+    {
+      "marketId": "559771",
+      "question": "Will Person CL win the 2028 Democratic presidential nomination?",
+      "currentPrice": {
+        "yes": 0,
+        "no": 0
+      },
+      "estimatedProbability": 0,
+      "edge": 0,
+      "confidence": "low",
+      "sources": [],
+      "reasoning": "Baseline analysis — no external research performed yet."
+    },
+    {
+      "marketId": "559685",
+      "question": "Will MrBeast win the 2028 Democratic presidential nomination?",
+      "currentPrice": {
+        "yes": 0.0095,
+        "no": 0.9905
+      },
+      "estimatedProbability": 0.0095,
+      "edge": 0,
+      "confidence": "low",
+      "sources": [],
+      "reasoning": "Baseline analysis — no external research performed yet."
+    },
+    {
+      "marketId": "559691",
+      "question": "Will Chris Murphy win the 2028 Democratic presidential nomination?",
+      "currentPrice": {
+        "yes": 0.0095,
+        "no": 0.9905
+      },
+      "estimatedProbability": 0.0095,
+      "edge": 0,
+      "confidence": "low",
+      "sources": [],
+      "reasoning": "Baseline analysis — no external research performed yet."
+    },
+    {
+      "marketId": "559713",
+      "question": "Will Person AF win the 2028 Democratic presidential nomination?",
+      "currentPrice": {
+        "yes": 0,
+        "no": 0
+      },
+      "estimatedProbability": 0,
+      "edge": 0,
+      "confidence": "low",
+      "sources": [],
+      "reasoning": "Baseline analysis — no external research performed yet."
+    },
+    {
+      "marketId": "559730",
+      "question": "Will Person AW win the 2028 Democratic presidential nomination?",
+      "currentPrice": {
+        "yes": 0,
+        "no": 0
+      },
+      "estimatedProbability": 0,
+      "edge": 0,
+      "confidence": "low",
+      "sources": [],
+      "reasoning": "Baseline analysis — no external research performed yet."
+    },
+    {
+      "marketId": "559736",
+      "question": "Will Person BC win the 2028 Democratic presidential nomination?",
+      "currentPrice": {
+        "yes": 0,
+        "no": 0
+      },
+      "estimatedProbability": 0,
+      "edge": 0,
+      "confidence": "low",
+      "sources": [],
+      "reasoning": "Baseline analysis — no external research performed yet."
+    },
+    {
+      "marketId": "559776",
+      "question": "Will Person CQ win the 2028 Democratic presidential nomination?",
+      "currentPrice": {
+        "yes": 0,
+        "no": 0
+      },
+      "estimatedProbability": 0,
+      "edge": 0,
+      "confidence": "low",
+      "sources": [],
+      "reasoning": "Baseline analysis — no external research performed yet."
+    },
+    {
+      "marketId": "559694",
+      "question": "Will Ro Khanna win the 2028 Democratic presidential nomination?",
+      "currentPrice": {
+        "yes": 0.0125,
+        "no": 0.9875
+      },
+      "estimatedProbability": 0.0125,
+      "edge": 0,
+      "confidence": "low",
+      "sources": [],
+      "reasoning": "Baseline analysis — no external research performed yet."
+    },
+    {
+      "marketId": "559716",
+      "question": "Will Person AI win the 2028 Democratic presidential nomination?",
+      "currentPrice": {
+        "yes": 0,
+        "no": 0
+      },
+      "estimatedProbability": 0,
+      "edge": 0,
+      "confidence": "low",
+      "sources": [],
+      "reasoning": "Baseline analysis — no external research performed yet."
+    },
+    {
+      "marketId": "559758",
+      "question": "Will Person BY win the 2028 Democratic presidential nomination?",
+      "currentPrice": {
+        "yes": 0,
+        "no": 0
+      },
+      "estimatedProbability": 0,
+      "edge": 0,
+      "confidence": "low",
+      "sources": [],
+      "reasoning": "Baseline analysis — no external research performed yet."
+    },
+    {
+      "marketId": "559655",
+      "question": "Will Josh Shapiro win the 2028 Democratic presidential nomination?",
+      "currentPrice": {
+        "yes": 0.0435,
+        "no": 0.9565
+      },
+      "estimatedProbability": 0.0435,
+      "edge": 0,
+      "confidence": "low",
+      "sources": [],
+      "reasoning": "Baseline analysis — no external research performed yet."
+    },
+    {
+      "marketId": "559672",
+      "question": "Will Roy Cooper win the 2028 Democratic presidential nomination?",
+      "currentPrice": {
+        "yes": 0.0095,
+        "no": 0.9905
+      },
+      "estimatedProbability": 0.0095,
+      "edge": 0,
+      "confidence": "low",
+      "sources": [],
+      "reasoning": "Baseline analysis — no external research performed yet."
+    },
+    {
+      "marketId": "559692",
+      "question": "Will Jasmine Crockett win the 2028 Democratic presidential nomination?",
+      "currentPrice": {
+        "yes": 0.0075,
+        "no": 0.9925
+      },
+      "estimatedProbability": 0.0075,
+      "edge": 0,
+      "confidence": "low",
+      "sources": [],
+      "reasoning": "Baseline analysis — no external research performed yet."
+    },
+    {
+      "marketId": "559696",
+      "question": "Will Person O win the 2028 Democratic presidential nomination?",
+      "currentPrice": {
+        "yes": 0,
+        "no": 0
+      },
+      "estimatedProbability": 0,
+      "edge": 0,
+      "confidence": "low",
+      "sources": [],
+      "reasoning": "Baseline analysis — no external research performed yet."
+    },
+    {
+      "marketId": "559737",
+      "question": "Will Person BD win the 2028 Democratic presidential nomination?",
+      "currentPrice": {
+        "yes": 0,
+        "no": 0
+      },
+      "estimatedProbability": 0,
+      "edge": 0,
+      "confidence": "low",
+      "sources": [],
+      "reasoning": "Baseline analysis — no external research performed yet."
+    },
+    {
+      "marketId": "559740",
+      "question": "Will Person BG win the 2028 Democratic presidential nomination?",
+      "currentPrice": {
+        "yes": 0,
+        "no": 0
+      },
+      "estimatedProbability": 0,
+      "edge": 0,
+      "confidence": "low",
+      "sources": [],
+      "reasoning": "Baseline analysis — no external research performed yet."
+    },
+    {
+      "marketId": "559756",
+      "question": "Will Person BW win the 2028 Democratic presidential nomination?",
+      "currentPrice": {
+        "yes": 0,
+        "no": 0
+      },
+      "estimatedProbability": 0,
+      "edge": 0,
+      "confidence": "low",
+      "sources": [],
+      "reasoning": "Baseline analysis — no external research performed yet."
+    },
+    {
+      "marketId": "559760",
+      "question": "Will Person CA win the 2028 Democratic presidential nomination?",
+      "currentPrice": {
+        "yes": 0,
+        "no": 0
+      },
+      "estimatedProbability": 0,
+      "edge": 0,
+      "confidence": "low",
+      "sources": [],
+      "reasoning": "Baseline analysis — no external research performed yet."
+    },
+    {
+      "marketId": "559703",
+      "question": "Will Person V win the 2028 Democratic presidential nomination?",
+      "currentPrice": {
+        "yes": 0,
+        "no": 0
+      },
+      "estimatedProbability": 0,
+      "edge": 0,
+      "confidence": "low",
+      "sources": [],
+      "reasoning": "Baseline analysis — no external research performed yet."
+    },
+    {
+      "marketId": "559725",
+      "question": "Will Person AR win the 2028 Democratic presidential nomination?",
+      "currentPrice": {
+        "yes": 0,
+        "no": 0
+      },
+      "estimatedProbability": 0,
+      "edge": 0,
+      "confidence": "low",
+      "sources": [],
+      "reasoning": "Baseline analysis — no external research performed yet."
+    },
+    {
+      "marketId": "559766",
+      "question": "Will Person CG win the 2028 Democratic presidential nomination?",
+      "currentPrice": {
+        "yes": 0,
+        "no": 0
+      },
+      "estimatedProbability": 0,
+      "edge": 0,
+      "confidence": "low",
+      "sources": [],
+      "reasoning": "Baseline analysis — no external research performed yet."
+    },
+    {
+      "marketId": "559658",
+      "question": "Will Kamala Harris win the 2028 Democratic presidential nomination?",
+      "currentPrice": {
+        "yes": 0.0585,
+        "no": 0.9415
+      },
+      "estimatedProbability": 0.0585,
+      "edge": 0,
+      "confidence": "low",
+      "sources": [],
+      "reasoning": "Baseline analysis — no external research performed yet."
+    },
+    {
+      "marketId": "559677",
+      "question": "Will Hillary Clinton win the 2028 Democratic presidential nomination?",
+      "currentPrice": {
+        "yes": 0.0085,
+        "no": 0.9915
+      },
+      "estimatedProbability": 0.0085,
+      "edge": 0,
+      "confidence": "low",
+      "sources": [],
+      "reasoning": "Baseline analysis — no external research performed yet."
+    },
+    {
+      "marketId": "559699",
+      "question": "Will Person R win the 2028 Democratic presidential nomination?",
+      "currentPrice": {
+        "yes": 0,
+        "no": 0
+      },
+      "estimatedProbability": 0,
+      "edge": 0,
+      "confidence": "low",
+      "sources": [],
+      "reasoning": "Baseline analysis — no external research performed yet."
+    },
+    {
+      "marketId": "559705",
+      "question": "Will Person X win the 2028 Democratic presidential nomination?",
+      "currentPrice": {
+        "yes": 0,
+        "no": 0
+      },
+      "estimatedProbability": 0,
+      "edge": 0,
+      "confidence": "low",
+      "sources": [],
+      "reasoning": "Baseline analysis — no external research performed yet."
+    },
+    {
+      "marketId": "559727",
+      "question": "Will Person AT win the 2028 Democratic presidential nomination?",
+      "currentPrice": {
+        "yes": 0,
+        "no": 0
+      },
+      "estimatedProbability": 0,
+      "edge": 0,
+      "confidence": "low",
+      "sources": [],
+      "reasoning": "Baseline analysis — no external research performed yet."
+    },
+    {
+      "marketId": "559762",
+      "question": "Will Person CC win the 2028 Democratic presidential nomination?",
+      "currentPrice": {
+        "yes": 0,
+        "no": 0
+      },
+      "estimatedProbability": 0,
+      "edge": 0,
+      "confidence": "low",
+      "sources": [],
+      "reasoning": "Baseline analysis — no external research performed yet."
+    },
+    {
+      "marketId": "559706",
+      "question": "Will Person Y win the 2028 Democratic presidential nomination?",
+      "currentPrice": {
+        "yes": 0,
+        "no": 0
+      },
+      "estimatedProbability": 0,
+      "edge": 0,
+      "confidence": "low",
+      "sources": [],
+      "reasoning": "Baseline analysis — no external research performed yet."
+    },
+    {
+      "marketId": "559728",
+      "question": "Will Person AU win the 2028 Democratic presidential nomination?",
+      "currentPrice": {
+        "yes": 0,
+        "no": 0
+      },
+      "estimatedProbability": 0,
+      "edge": 0,
+      "confidence": "low",
+      "sources": [],
+      "reasoning": "Baseline analysis — no external research performed yet."
+    },
+    {
+      "marketId": "559769",
+      "question": "Will Person CJ win the 2028 Democratic presidential nomination?",
+      "currentPrice": {
+        "yes": 0,
+        "no": 0
+      },
+      "estimatedProbability": 0,
+      "edge": 0,
+      "confidence": "low",
+      "sources": [],
+      "reasoning": "Baseline analysis — no external research performed yet."
+    },
+    {
+      "marketId": "559714",
+      "question": "Will Person AG win the 2028 Democratic presidential nomination?",
+      "currentPrice": {
+        "yes": 0,
+        "no": 0
+      },
+      "estimatedProbability": 0,
+      "edge": 0,
+      "confidence": "low",
+      "sources": [],
+      "reasoning": "Baseline analysis — no external research performed yet."
+    },
+    {
+      "marketId": "559777",
+      "question": "Will Person CR win the 2028 Democratic presidential nomination?",
+      "currentPrice": {
+        "yes": 0,
+        "no": 0
+      },
+      "estimatedProbability": 0,
+      "edge": 0,
+      "confidence": "low",
+      "sources": [],
+      "reasoning": "Baseline analysis — no external research performed yet."
+    },
+    {
+      "marketId": "559715",
+      "question": "Will Person AH win the 2028 Democratic presidential nomination?",
+      "currentPrice": {
+        "yes": 0,
+        "no": 0
+      },
+      "estimatedProbability": 0,
+      "edge": 0,
+      "confidence": "low",
+      "sources": [],
+      "reasoning": "Baseline analysis — no external research performed yet."
+    },
+    {
+      "marketId": "559734",
+      "question": "Will Person BA win the 2028 Democratic presidential nomination?",
+      "currentPrice": {
+        "yes": 0,
+        "no": 0
+      },
+      "estimatedProbability": 0,
+      "edge": 0,
+      "confidence": "low",
+      "sources": [],
+      "reasoning": "Baseline analysis — no external research performed yet."
+    },
+    {
+      "marketId": "559754",
+      "question": "Will Person BU win the 2028 Democratic presidential nomination?",
+      "currentPrice": {
+        "yes": 0,
+        "no": 0
+      },
+      "estimatedProbability": 0,
+      "edge": 0,
+      "confidence": "low",
+      "sources": [],
+      "reasoning": "Baseline analysis — no external research performed yet."
+    },
+    {
+      "marketId": "559778",
+      "question": "Will Person CS win the 2028 Democratic presidential nomination?",
+      "currentPrice": {
+        "yes": 0,
+        "no": 0
+      },
+      "estimatedProbability": 0,
+      "edge": 0,
+      "confidence": "low",
+      "sources": [],
+      "reasoning": "Baseline analysis — no external research performed yet."
+    },
+    {
+      "marketId": "559652",
+      "question": "Will Gavin Newsom win the 2028 Democratic presidential nomination?",
+      "currentPrice": {
+        "yes": 0.275,
+        "no": 0.725
+      },
+      "estimatedProbability": 0.275,
+      "edge": 0,
+      "confidence": "low",
+      "sources": [],
+      "reasoning": "Baseline analysis — no external research performed yet."
+    },
+    {
+      "marketId": "559720",
+      "question": "Will Person AM win the 2028 Democratic presidential nomination?",
+      "currentPrice": {
+        "yes": 0,
+        "no": 0
+      },
+      "estimatedProbability": 0,
+      "edge": 0,
+      "confidence": "low",
+      "sources": [],
+      "reasoning": "Baseline analysis — no external research performed yet."
+    },
+    {
+      "marketId": "559733",
+      "question": "Will Person AZ win the 2028 Democratic presidential nomination?",
+      "currentPrice": {
+        "yes": 0,
+        "no": 0
+      },
+      "estimatedProbability": 0,
+      "edge": 0,
+      "confidence": "low",
+      "sources": [],
+      "reasoning": "Baseline analysis — no external research performed yet."
+    },
+    {
+      "marketId": "559742",
+      "question": "Will Person BI win the 2028 Democratic presidential nomination?",
+      "currentPrice": {
+        "yes": 0,
+        "no": 0
+      },
+      "estimatedProbability": 0,
+      "edge": 0,
+      "confidence": "low",
+      "sources": [],
+      "reasoning": "Baseline analysis — no external research performed yet."
+    },
+    {
+      "marketId": "559753",
+      "question": "Will Person BT win the 2028 Democratic presidential nomination?",
+      "currentPrice": {
+        "yes": 0,
+        "no": 0
+      },
+      "estimatedProbability": 0,
+      "edge": 0,
+      "confidence": "low",
+      "sources": [],
+      "reasoning": "Baseline analysis — no external research performed yet."
+    },
+    {
+      "marketId": "559721",
+      "question": "Will Person AN win the 2028 Democratic presidential nomination?",
+      "currentPrice": {
+        "yes": 0,
+        "no": 0
+      },
+      "estimatedProbability": 0,
+      "edge": 0,
+      "confidence": "low",
+      "sources": [],
+      "reasoning": "Baseline analysis — no external research performed yet."
+    },
+    {
+      "marketId": "559732",
+      "question": "Will Person AY win the 2028 Democratic presidential nomination?",
+      "currentPrice": {
+        "yes": 0,
+        "no": 0
+      },
+      "estimatedProbability": 0,
+      "edge": 0,
+      "confidence": "low",
+      "sources": [],
+      "reasoning": "Baseline analysis — no external research performed yet."
+    },
+    {
+      "marketId": "559752",
+      "question": "Will Person BS win the 2028 Democratic presidential nomination?",
+      "currentPrice": {
+        "yes": 0,
+        "no": 0
+      },
+      "estimatedProbability": 0,
+      "edge": 0,
+      "confidence": "low",
+      "sources": [],
+      "reasoning": "Baseline analysis — no external research performed yet."
+    },
+    {
+      "marketId": "559698",
+      "question": "Will Person Q win the 2028 Democratic presidential nomination?",
+      "currentPrice": {
+        "yes": 0,
+        "no": 0
+      },
+      "estimatedProbability": 0,
+      "edge": 0,
+      "confidence": "low",
+      "sources": [],
+      "reasoning": "Baseline analysis — no external research performed yet."
+    },
+    {
+      "marketId": "559735",
+      "question": "Will Person BB win the 2028 Democratic presidential nomination?",
+      "currentPrice": {
+        "yes": 0,
+        "no": 0
+      },
+      "estimatedProbability": 0,
+      "edge": 0,
+      "confidence": "low",
+      "sources": [],
+      "reasoning": "Baseline analysis — no external research performed yet."
+    },
+    {
+      "marketId": "559744",
+      "question": "Will Person BK win the 2028 Democratic presidential nomination?",
+      "currentPrice": {
+        "yes": 0,
+        "no": 0
+      },
+      "estimatedProbability": 0,
+      "edge": 0,
+      "confidence": "low",
+      "sources": [],
+      "reasoning": "Baseline analysis — no external research performed yet."
+    },
+    {
+      "marketId": "559750",
+      "question": "Will Person BQ win the 2028 Democratic presidential nomination?",
+      "currentPrice": {
+        "yes": 0,
+        "no": 0
+      },
+      "estimatedProbability": 0,
+      "edge": 0,
+      "confidence": "low",
+      "sources": [],
+      "reasoning": "Baseline analysis — no external research performed yet."
+    }
+  ],
+  "action": "SKIP",
+  "actionReasoning": "No significant edge detected. Market prices appear efficient.",
+  "riskLevel": "low"
+}

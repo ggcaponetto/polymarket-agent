@@ -1,0 +1,751 @@
+{
+  "eventId": "114242",
+  "title": "US strikes Iran by...?",
+  "timestamp": "2026-02-21T00:38:16.010Z",
+  "markets": [
+    {
+      "marketId": "1294628",
+      "question": "US strikes Iran by February 5, 2026?",
+      "currentPrice": {
+        "yes": 0,
+        "no": 1
+      },
+      "estimatedProbability": 0,
+      "edge": 0,
+      "confidence": "low",
+      "sources": [],
+      "reasoning": "Baseline analysis — no external research performed yet."
+    },
+    {
+      "marketId": "1092199",
+      "question": "US strikes Iran by January 31, 2026?",
+      "currentPrice": {
+        "yes": 0,
+        "no": 1
+      },
+      "estimatedProbability": 0,
+      "edge": 0,
+      "confidence": "low",
+      "sources": [],
+      "reasoning": "Baseline analysis — no external research performed yet."
+    },
+    {
+      "marketId": "1175504",
+      "question": "US strikes Iran by January 14, 2026?",
+      "currentPrice": {
+        "yes": 0,
+        "no": 1
+      },
+      "estimatedProbability": 0,
+      "edge": 0,
+      "confidence": "low",
+      "sources": [],
+      "reasoning": "Baseline analysis — no external research performed yet."
+    },
+    {
+      "marketId": "1175524",
+      "question": "US strikes Iran by January 15, 2026?",
+      "currentPrice": {
+        "yes": 0,
+        "no": 1
+      },
+      "estimatedProbability": 0,
+      "edge": 0,
+      "confidence": "low",
+      "sources": [],
+      "reasoning": "Baseline analysis — no external research performed yet."
+    },
+    {
+      "marketId": "1175548",
+      "question": "US strikes Iran by January 18, 2026?",
+      "currentPrice": {
+        "yes": 0,
+        "no": 1
+      },
+      "estimatedProbability": 0,
+      "edge": 0,
+      "confidence": "low",
+      "sources": [],
+      "reasoning": "Baseline analysis — no external research performed yet."
+    },
+    {
+      "marketId": "1175547",
+      "question": "US strikes Iran by January 17, 2026?",
+      "currentPrice": {
+        "yes": 0,
+        "no": 1
+      },
+      "estimatedProbability": 0,
+      "edge": 0,
+      "confidence": "low",
+      "sources": [],
+      "reasoning": "Baseline analysis — no external research performed yet."
+    },
+    {
+      "marketId": "984440",
+      "question": "US strikes Iran by December 31, 2025?",
+      "currentPrice": {
+        "yes": 0,
+        "no": 1
+      },
+      "estimatedProbability": 0,
+      "edge": 0,
+      "confidence": "low",
+      "sources": [],
+      "reasoning": "Baseline analysis — no external research performed yet."
+    },
+    {
+      "marketId": "984441",
+      "question": "US strikes Iran by March 31, 2026?",
+      "currentPrice": {
+        "yes": 0.635,
+        "no": 0.365
+      },
+      "estimatedProbability": 0.635,
+      "edge": 0,
+      "confidence": "low",
+      "sources": [],
+      "reasoning": "Baseline analysis — no external research performed yet."
+    },
+    {
+      "marketId": "984442",
+      "question": "US strikes Iran by June 30, 2026?",
+      "currentPrice": {
+        "yes": 0.68,
+        "no": 0.32
+      },
+      "estimatedProbability": 0.68,
+      "edge": 0,
+      "confidence": "low",
+      "sources": [],
+      "reasoning": "Baseline analysis — no external research performed yet."
+    },
+    {
+      "marketId": "1198423",
+      "question": "US strikes Iran by February 28, 2026?",
+      "currentPrice": {
+        "yes": 0.255,
+        "no": 0.745
+      },
+      "estimatedProbability": 0.255,
+      "edge": 0,
+      "confidence": "low",
+      "sources": [],
+      "reasoning": "Baseline analysis — no external research performed yet."
+    },
+    {
+      "marketId": "1139590",
+      "question": "US strikes Iran by January 11, 2026?",
+      "currentPrice": {
+        "yes": 0,
+        "no": 1
+      },
+      "estimatedProbability": 0,
+      "edge": 0,
+      "confidence": "low",
+      "sources": [],
+      "reasoning": "Baseline analysis — no external research performed yet."
+    },
+    {
+      "marketId": "1168862",
+      "question": "US strikes Iran by January 23, 2026?",
+      "currentPrice": {
+        "yes": 0,
+        "no": 1
+      },
+      "estimatedProbability": 0,
+      "edge": 0,
+      "confidence": "low",
+      "sources": [],
+      "reasoning": "Baseline analysis — no external research performed yet."
+    },
+    {
+      "marketId": "1157511",
+      "question": "US strikes Iran by January 12, 2026?",
+      "currentPrice": {
+        "yes": 0,
+        "no": 1
+      },
+      "estimatedProbability": 0,
+      "edge": 0,
+      "confidence": "low",
+      "sources": [],
+      "reasoning": "Baseline analysis — no external research performed yet."
+    },
+    {
+      "marketId": "1157512",
+      "question": "US strikes Iran by January 13, 2026?",
+      "currentPrice": {
+        "yes": 0,
+        "no": 1
+      },
+      "estimatedProbability": 0,
+      "edge": 0,
+      "confidence": "low",
+      "sources": [],
+      "reasoning": "Baseline analysis — no external research performed yet."
+    },
+    {
+      "marketId": "1157513",
+      "question": "US strikes Iran by January 16, 2026?",
+      "currentPrice": {
+        "yes": 0,
+        "no": 1
+      },
+      "estimatedProbability": 0,
+      "edge": 0,
+      "confidence": "low",
+      "sources": [],
+      "reasoning": "Baseline analysis — no external research performed yet."
+    },
+    {
+      "marketId": "1294627",
+      "question": "US strikes Iran by February 4, 2026?",
+      "currentPrice": {
+        "yes": 0,
+        "no": 1
+      },
+      "estimatedProbability": 0,
+      "edge": 0,
+      "confidence": "low",
+      "sources": [],
+      "reasoning": "Baseline analysis — no external research performed yet."
+    },
+    {
+      "marketId": "1294616",
+      "question": "US strikes Iran by February 1, 2026?",
+      "currentPrice": {
+        "yes": 0,
+        "no": 1
+      },
+      "estimatedProbability": 0,
+      "edge": 0,
+      "confidence": "low",
+      "sources": [],
+      "reasoning": "Baseline analysis — no external research performed yet."
+    },
+    {
+      "marketId": "1294617",
+      "question": "US strikes Iran by February 2, 2026?",
+      "currentPrice": {
+        "yes": 0,
+        "no": 1
+      },
+      "estimatedProbability": 0,
+      "edge": 0,
+      "confidence": "low",
+      "sources": [],
+      "reasoning": "Baseline analysis — no external research performed yet."
+    },
+    {
+      "marketId": "1294626",
+      "question": "US strikes Iran by February 3, 2026?",
+      "currentPrice": {
+        "yes": 0,
+        "no": 1
+      },
+      "estimatedProbability": 0,
+      "edge": 0,
+      "confidence": "low",
+      "sources": [],
+      "reasoning": "Baseline analysis — no external research performed yet."
+    },
+    {
+      "marketId": "1320793",
+      "question": "US strikes Iran by February 20, 2026?",
+      "currentPrice": {
+        "yes": 0.0075,
+        "no": 0.9925
+      },
+      "estimatedProbability": 0.0075,
+      "edge": 0,
+      "confidence": "low",
+      "sources": [],
+      "reasoning": "Baseline analysis — no external research performed yet."
+    },
+    {
+      "marketId": "1236230",
+      "question": "US strikes Iran by January 26, 2026?",
+      "currentPrice": {
+        "yes": 0,
+        "no": 1
+      },
+      "estimatedProbability": 0,
+      "edge": 0,
+      "confidence": "low",
+      "sources": [],
+      "reasoning": "Baseline analysis — no external research performed yet."
+    },
+    {
+      "marketId": "1273609",
+      "question": "US strikes Iran by February 6, 2026?",
+      "currentPrice": {
+        "yes": 0,
+        "no": 1
+      },
+      "estimatedProbability": 0,
+      "edge": 0,
+      "confidence": "low",
+      "sources": [],
+      "reasoning": "Baseline analysis — no external research performed yet."
+    },
+    {
+      "marketId": "1273610",
+      "question": "US strikes Iran by February 13, 2026?",
+      "currentPrice": {
+        "yes": 0,
+        "no": 1
+      },
+      "estimatedProbability": 0,
+      "edge": 0,
+      "confidence": "low",
+      "sources": [],
+      "reasoning": "Baseline analysis — no external research performed yet."
+    },
+    {
+      "marketId": "1252875",
+      "question": "US strikes Iran by January 25, 2026?",
+      "currentPrice": {
+        "yes": 0,
+        "no": 1
+      },
+      "estimatedProbability": 0,
+      "edge": 0,
+      "confidence": "low",
+      "sources": [],
+      "reasoning": "Baseline analysis — no external research performed yet."
+    },
+    {
+      "marketId": "1252876",
+      "question": "US strikes Iran by January 27, 2026?",
+      "currentPrice": {
+        "yes": 0,
+        "no": 1
+      },
+      "estimatedProbability": 0,
+      "edge": 0,
+      "confidence": "low",
+      "sources": [],
+      "reasoning": "Baseline analysis — no external research performed yet."
+    },
+    {
+      "marketId": "1252874",
+      "question": "US strikes Iran by January 24, 2026?",
+      "currentPrice": {
+        "yes": 0,
+        "no": 1
+      },
+      "estimatedProbability": 0,
+      "edge": 0,
+      "confidence": "low",
+      "sources": [],
+      "reasoning": "Baseline analysis — no external research performed yet."
+    },
+    {
+      "marketId": "1252877",
+      "question": "US strikes Iran by January 28, 2026?",
+      "currentPrice": {
+        "yes": 0,
+        "no": 1
+      },
+      "estimatedProbability": 0,
+      "edge": 0,
+      "confidence": "low",
+      "sources": [],
+      "reasoning": "Baseline analysis — no external research performed yet."
+    },
+    {
+      "marketId": "1252878",
+      "question": "US strikes Iran by January 29, 2026?",
+      "currentPrice": {
+        "yes": 0,
+        "no": 1
+      },
+      "estimatedProbability": 0,
+      "edge": 0,
+      "confidence": "low",
+      "sources": [],
+      "reasoning": "Baseline analysis — no external research performed yet."
+    },
+    {
+      "marketId": "1252879",
+      "question": "US strikes Iran by January 30, 2026?",
+      "currentPrice": {
+        "yes": 0,
+        "no": 1
+      },
+      "estimatedProbability": 0,
+      "edge": 0,
+      "confidence": "low",
+      "sources": [],
+      "reasoning": "Baseline analysis — no external research performed yet."
+    },
+    {
+      "marketId": "1367169",
+      "question": "US strikes Iran by February 19, 2026?",
+      "currentPrice": {
+        "yes": 0,
+        "no": 1
+      },
+      "estimatedProbability": 0,
+      "edge": 0,
+      "confidence": "low",
+      "sources": [],
+      "reasoning": "Baseline analysis — no external research performed yet."
+    },
+    {
+      "marketId": "1367166",
+      "question": "US strikes Iran by February 16, 2026?",
+      "currentPrice": {
+        "yes": 0,
+        "no": 1
+      },
+      "estimatedProbability": 0,
+      "edge": 0,
+      "confidence": "low",
+      "sources": [],
+      "reasoning": "Baseline analysis — no external research performed yet."
+    },
+    {
+      "marketId": "1335518",
+      "question": "US strikes Iran by February 7, 2026?",
+      "currentPrice": {
+        "yes": 0,
+        "no": 1
+      },
+      "estimatedProbability": 0,
+      "edge": 0,
+      "confidence": "low",
+      "sources": [],
+      "reasoning": "Baseline analysis — no external research performed yet."
+    },
+    {
+      "marketId": "1335519",
+      "question": "US strikes Iran by February 8, 2026?",
+      "currentPrice": {
+        "yes": 0,
+        "no": 1
+      },
+      "estimatedProbability": 0,
+      "edge": 0,
+      "confidence": "low",
+      "sources": [],
+      "reasoning": "Baseline analysis — no external research performed yet."
+    },
+    {
+      "marketId": "1335520",
+      "question": "US strikes Iran by February 9, 2026?",
+      "currentPrice": {
+        "yes": 0,
+        "no": 1
+      },
+      "estimatedProbability": 0,
+      "edge": 0,
+      "confidence": "low",
+      "sources": [],
+      "reasoning": "Baseline analysis — no external research performed yet."
+    },
+    {
+      "marketId": "1367195",
+      "question": "US strikes Iran by March 15, 2026?",
+      "currentPrice": {
+        "yes": 0.53,
+        "no": 0.47
+      },
+      "estimatedProbability": 0.53,
+      "edge": 0,
+      "confidence": "low",
+      "sources": [],
+      "reasoning": "Baseline analysis — no external research performed yet."
+    },
+    {
+      "marketId": "1360603",
+      "question": "US strikes Iran by February 10, 2026?",
+      "currentPrice": {
+        "yes": 0,
+        "no": 1
+      },
+      "estimatedProbability": 0,
+      "edge": 0,
+      "confidence": "low",
+      "sources": [],
+      "reasoning": "Baseline analysis — no external research performed yet."
+    },
+    {
+      "marketId": "1360606",
+      "question": "US strikes Iran by February 12, 2026?",
+      "currentPrice": {
+        "yes": 0,
+        "no": 1
+      },
+      "estimatedProbability": 0,
+      "edge": 0,
+      "confidence": "low",
+      "sources": [],
+      "reasoning": "Baseline analysis — no external research performed yet."
+    },
+    {
+      "marketId": "1360604",
+      "question": "US strikes Iran by February 11, 2026?",
+      "currentPrice": {
+        "yes": 0,
+        "no": 1
+      },
+      "estimatedProbability": 0,
+      "edge": 0,
+      "confidence": "low",
+      "sources": [],
+      "reasoning": "Baseline analysis — no external research performed yet."
+    },
+    {
+      "marketId": "1367164",
+      "question": "US strikes Iran by February 14, 2026?",
+      "currentPrice": {
+        "yes": 0,
+        "no": 1
+      },
+      "estimatedProbability": 0,
+      "edge": 0,
+      "confidence": "low",
+      "sources": [],
+      "reasoning": "Baseline analysis — no external research performed yet."
+    },
+    {
+      "marketId": "1367167",
+      "question": "US strikes Iran by February 17, 2026?",
+      "currentPrice": {
+        "yes": 0,
+        "no": 1
+      },
+      "estimatedProbability": 0,
+      "edge": 0,
+      "confidence": "low",
+      "sources": [],
+      "reasoning": "Baseline analysis — no external research performed yet."
+    },
+    {
+      "marketId": "1367165",
+      "question": "US strikes Iran by February 15, 2026?",
+      "currentPrice": {
+        "yes": 0,
+        "no": 1
+      },
+      "estimatedProbability": 0,
+      "edge": 0,
+      "confidence": "low",
+      "sources": [],
+      "reasoning": "Baseline analysis — no external research performed yet."
+    },
+    {
+      "marketId": "1367168",
+      "question": "US strikes Iran by February 18, 2026?",
+      "currentPrice": {
+        "yes": 0,
+        "no": 1
+      },
+      "estimatedProbability": 0,
+      "edge": 0,
+      "confidence": "low",
+      "sources": [],
+      "reasoning": "Baseline analysis — no external research performed yet."
+    },
+    {
+      "marketId": "1386650",
+      "question": "US strikes Iran by February 21, 2026?",
+      "currentPrice": {
+        "yes": 0.0325,
+        "no": 0.9675
+      },
+      "estimatedProbability": 0.0325,
+      "edge": 0,
+      "confidence": "low",
+      "sources": [],
+      "reasoning": "Baseline analysis — no external research performed yet."
+    },
+    {
+      "marketId": "1386656",
+      "question": "US strikes Iran by February 22, 2026?",
+      "currentPrice": {
+        "yes": 0.065,
+        "no": 0.935
+      },
+      "estimatedProbability": 0.065,
+      "edge": 0,
+      "confidence": "low",
+      "sources": [],
+      "reasoning": "Baseline analysis — no external research performed yet."
+    },
+    {
+      "marketId": "1386657",
+      "question": "US strikes Iran by February 23, 2026?",
+      "currentPrice": {
+        "yes": 0.085,
+        "no": 0.915
+      },
+      "estimatedProbability": 0.085,
+      "edge": 0,
+      "confidence": "low",
+      "sources": [],
+      "reasoning": "Baseline analysis — no external research performed yet."
+    },
+    {
+      "marketId": "1386659",
+      "question": "US strikes Iran by February 24, 2026?",
+      "currentPrice": {
+        "yes": 0.095,
+        "no": 0.905
+      },
+      "estimatedProbability": 0.095,
+      "edge": 0,
+      "confidence": "low",
+      "sources": [],
+      "reasoning": "Baseline analysis — no external research performed yet."
+    },
+    {
+      "marketId": "1386661",
+      "question": "US strikes Iran by February 25, 2026?",
+      "currentPrice": {
+        "yes": 0.135,
+        "no": 0.865
+      },
+      "estimatedProbability": 0.135,
+      "edge": 0,
+      "confidence": "low",
+      "sources": [],
+      "reasoning": "Baseline analysis — no external research performed yet."
+    },
+    {
+      "marketId": "1386662",
+      "question": "US strikes Iran by February 26, 2026?",
+      "currentPrice": {
+        "yes": 0.175,
+        "no": 0.825
+      },
+      "estimatedProbability": 0.175,
+      "edge": 0,
+      "confidence": "low",
+      "sources": [],
+      "reasoning": "Baseline analysis — no external research performed yet."
+    },
+    {
+      "marketId": "1386664",
+      "question": "US strikes Iran by February 27, 2026?",
+      "currentPrice": {
+        "yes": 0.225,
+        "no": 0.775
+      },
+      "estimatedProbability": 0.225,
+      "edge": 0,
+      "confidence": "low",
+      "sources": [],
+      "reasoning": "Baseline analysis — no external research performed yet."
+    },
+    {
+      "marketId": "1388693",
+      "question": "US strikes Iran by December 31, 2026?",
+      "currentPrice": {
+        "yes": 0.745,
+        "no": 0.255
+      },
+      "estimatedProbability": 0.745,
+      "edge": 0,
+      "confidence": "low",
+      "sources": [],
+      "reasoning": "Baseline analysis — no external research performed yet."
+    },
+    {
+      "marketId": "1399072",
+      "question": "US strikes Iran by March 6, 2026?",
+      "currentPrice": {
+        "yes": 0.435,
+        "no": 0.565
+      },
+      "estimatedProbability": 0.435,
+      "edge": 0,
+      "confidence": "low",
+      "sources": [],
+      "reasoning": "Baseline analysis — no external research performed yet."
+    },
+    {
+      "marketId": "1399042",
+      "question": "US strikes Iran by March 1, 2026?",
+      "currentPrice": {
+        "yes": 0.29,
+        "no": 0.71
+      },
+      "estimatedProbability": 0.29,
+      "edge": 0,
+      "confidence": "low",
+      "sources": [],
+      "reasoning": "Baseline analysis — no external research performed yet."
+    },
+    {
+      "marketId": "1399064",
+      "question": "US strikes Iran by March 2, 2026?",
+      "currentPrice": {
+        "yes": 0.325,
+        "no": 0.675
+      },
+      "estimatedProbability": 0.325,
+      "edge": 0,
+      "confidence": "low",
+      "sources": [],
+      "reasoning": "Baseline analysis — no external research performed yet."
+    },
+    {
+      "marketId": "1399065",
+      "question": "US strikes Iran by March 3, 2026?",
+      "currentPrice": {
+        "yes": 0.355,
+        "no": 0.645
+      },
+      "estimatedProbability": 0.355,
+      "edge": 0,
+      "confidence": "low",
+      "sources": [],
+      "reasoning": "Baseline analysis — no external research performed yet."
+    },
+    {
+      "marketId": "1399067",
+      "question": "US strikes Iran by March 5, 2026?",
+      "currentPrice": {
+        "yes": 0.405,
+        "no": 0.595
+      },
+      "estimatedProbability": 0.405,
+      "edge": 0,
+      "confidence": "low",
+      "sources": [],
+      "reasoning": "Baseline analysis — no external research performed yet."
+    },
+    {
+      "marketId": "1399066",
+      "question": "US strikes Iran by March 4, 2026?",
+      "currentPrice": {
+        "yes": 0.375,
+        "no": 0.625
+      },
+      "estimatedProbability": 0.375,
+      "edge": 0,
+      "confidence": "low",
+      "sources": [],
+      "reasoning": "Baseline analysis — no external research performed yet."
+    },
+    {
+      "marketId": "1399088",
+      "question": "US strikes Iran by March 7, 2026?",
+      "currentPrice": {
+        "yes": 0.46,
+        "no": 0.54
+      },
+      "estimatedProbability": 0.46,
+      "edge": 0,
+      "confidence": "low",
+      "sources": [],
+      "reasoning": "Baseline analysis — no external research performed yet."
+    }
+  ],
+  "action": "SKIP",
+  "actionReasoning": "No significant edge detected. Market prices appear efficient.",
+  "riskLevel": "low"
+}
