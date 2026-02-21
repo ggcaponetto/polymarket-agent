@@ -30,15 +30,25 @@ Autonomous Polymarket prediction market analysis agent. Uses an AI agent (CCAgen
 ```bash
 npm install
 
-# List top GTA-related events by volume
-npm run cli -- fetch-events --limit 50 --search gta
+# 1) List GTA-related events (use a big limit so the search filter has data)
+npm run cli -- fetch-events --limit 200 --search "gta"
 
-# Take a snapshot of current market state
+# 2) Export a couple of known IDs (replace with your targets)
+npm run cli -- export 23792 20461
+
+# 3) Export everything matching a query plus liquidity guardrails
+npm run cli -- export --limit 200 --min-volume 200000 --min-liquidity 50000 --search "gta"
+
+# 4) Run the built-in baseline research over the GTA slice
+npm run cli -- research --limit 200 --search "gta"
+
+# 5) Snapshot and inspect latest stored actions
 npm run cli -- snapshot
-
-# View latest action recommendations
 npm run cli -- actions
 ```
+
+### Search filter tip
+`--search` runs **after** the API fetch. If you set `--limit 2`, only two events are downloaded before filtering, so you might end up with “Found 0 events.” When hunting by keyword, bump the limit (e.g., `--limit 200`) or use `--all` so the filter has something to work with.
 
 ## Agent Research Workflow
 
